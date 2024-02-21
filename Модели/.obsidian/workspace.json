@@ -1,0 +1,172 @@
+{
+  "main": {
+    "id": "306d0e766262ff67",
+    "type": "split",
+    "children": [
+      {
+        "id": "15b4f1479eee8a29",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "793e8a264dcfeff2",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1735f481053b8e54",
+    "type": "split",
+    "children": [
+      {
+        "id": "4b51db96d237e1cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ad3d3d95830b9bd3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "41c48aedd023217d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c26ef2140ee1b795",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8f31db09b4e13f58",
+    "type": "split",
+    "children": [
+      {
+        "id": "c6ffb916e9c21ddf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ed895d7c9646d150",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "090ad016465a334d",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0b377b6c3d9fe335",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2cfc53e6ff471bf3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "793e8a264dcfeff2",
+  "lastOpenFiles": [
+    "Идейность.md",
+    "Идеология на бобах.md",
+    "Радио Варп.md",
+    "Фейт.md",
+    "БЖЗИ (бойцы, жизни которых зависят от игрока).md",
+    "Флешбеки.md",
+    "Шкала эмоций.md",
+    "Карточки событий.md",
+    "Публичная казнь.md",
+    "«Божественная канцелярия».md",
+    "Призрак.md",
+    "Реинкарнация в детей.md",
+    "«Страна Мёртвых».md",
+    "Чёрная Метка.md",
+    "Метка убийцы.md",
+    "Спотлайт.md",
+    "«Суровая реальность».md",
+    "Тени.md",
+    "Временные персонажи.md",
+    "Смена освещения.md",
+    "Бросок кубика.md",
+    "Игровое такси.md",
+    "Реданская канцелярия.md",
+    "«Да Ну».md",
+    "Вскрытие.md",
+    "Хиты.md",
+    "Untitled",
+    "Роли"
+  ]
+}
